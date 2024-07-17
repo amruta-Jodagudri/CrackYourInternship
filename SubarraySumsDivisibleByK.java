@@ -23,7 +23,6 @@ public class SubarraySumsDivisibleByK {
                     prefixMap.put(mod, 1);
                 }
             }
-
             return count;
     }
 }
