@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
 class Solution {
     public static void moveZeroes(int[] nums) {
         int lastNonZeroFoundAt = 0;
